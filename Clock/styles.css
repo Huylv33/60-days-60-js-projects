@@ -1,0 +1,32 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+header {
+  height: 40px;
+  font-size: 20px;
+}
+
+#time-now {
+  margin-top:20px;
+  text-align: center;
+  font-size: 120px;
+}
+
+#background-color-now {
+  margin-top:20px;
+  text-align: center;
+  font-size: 90px;
+}
+footer { 
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 5px;
+  border-top: 1px solid white;
+}
+#section__middle {
+  font-size: 30px;
+  text-align: center
+}
