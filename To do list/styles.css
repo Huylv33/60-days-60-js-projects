@@ -1,0 +1,14 @@
+html, body, .container-fluid {
+  height: 100%;
+}
+.bg-elecblue {
+  background: #0984e3;
+}
+
+#title {
+  margin-top: 100px; 
+}
+
+#to-do-list {
+  margin-top: 50px;
+}
